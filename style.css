@@ -1,0 +1,29 @@
+/* This is body */
+body {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* This is Navbar */
+.navbar {
+  margin-bottom: 50px;
+}
+.nav-link {
+  text-transform: uppercase;
+}
+
+/* This is carousel slide */
+.carousel {
+  margin-bottom: 50px;
+}
+/* This is card */
+
+.card {
+  background: linear-gradient(rgba(138, 201, 240, 0.9), rgba(0, 0, 0, 0.9)), url(https://www.fifaratings.com/wp-content/uploads/Argentina-National-Football-Team.svg) center top/100% no-repeat !important;
+  color: white;
+  box-shadow: 5px;
+}
+.card img {
+  width: 180px;
+  height: 180px;
+}
